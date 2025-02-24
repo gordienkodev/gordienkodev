@@ -72,10 +72,10 @@ Frontend developer with over 5 years of experience in developing a wide range of
   <a href="https://zhilischnoe-pravo.ru/" target="_blank">
     <img src="./assets/zhilischnoe-pravo.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://rolling-scopes-school.github.io/gordienkodev-JSFE2023Q4/coffee-house/" target="_blank">
+  <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
     <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://rolling-scopes-school.github.io/gordienkodev-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
+  <a href="https://rolling-scopes-school.github.io/guz86-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
     <img src="./assets/shelter.png" width="200" height="300" style="object-fit: cover;">
   </a>
 
