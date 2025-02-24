@@ -16,16 +16,16 @@ Frontend developer with over 5 years of experience in developing a wide range of
 - 🚀 I’m currently working at 5D Hub.
 
 🔭 Completed Test Tasks:
-- <a href="https://github.com/guz86/fuse8-task" rel="nofollow">fuse8-task</a>
-- <a href="https://github.com/guz86/green-api-task" rel="nofollow">green-api task</a>
-- <a href="https://github.com/guz86/PokeAPI-task" rel="nofollow">pokeAPI task</a>
-- <a href="https://github.com/guz86/yukids-task" rel="nofollow">yukids task</a> 
-- <a href="https://github.com/guz86/WEATHER-API" rel="nofollow">weather-API</a>
-- <a href="https://github.com/guz86/mindbox-task" rel="nofollow">mindbox task</a>
-- <a href="https://github.com/guz86/mad-soft-task" rel="nofollow">mad-soft task</a>
-- <a href="https://github.com/guz86/seotlt-task" rel="nofollow">seotlt task</a>
-- <a href="https://github.com/guz86/skilla-task" rel="nofollow">skilla task</a>
-- <a href="https://github.com/guz86/alfa-task" rel="nofollow">alfa task</a>
+- <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a>
+- <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a>
+- <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a>
+- <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids task</a> 
+- <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a>
+- <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox task</a>
+- <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft task</a>
+- <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt task</a>
+- <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla task</a>
+- <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa task</a>
 
 
 ## Languages and Tools
@@ -54,10 +54,10 @@ Frontend developer with over 5 years of experience in developing a wide range of
 ## My latest projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
-  <a href="https://github.com/guz86/skilla-task" target="_blank">
+  <a href="https://github.com/gordienkodev/skilla-task" target="_blank">
     <img src="./assets/skill.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://github.com/guz86/graphiql-app" target="_blank">
+  <a href="https://github.com/gordienkodev/graphiql-app" target="_blank">
     <img src="./assets/graph.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://github.com/RS-Tech-Artisans/eCommerce-React" target="_blank">
@@ -72,10 +72,10 @@ Frontend developer with over 5 years of experience in developing a wide range of
   <a href="https://zhilischnoe-pravo.ru/" target="_blank">
     <img src="./assets/zhilischnoe-pravo.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
+  <a href="https://rolling-scopes-school.github.io/gordienkodev-JSFE2023Q4/coffee-house/" target="_blank">
     <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://rolling-scopes-school.github.io/guz86-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
+  <a href="https://rolling-scopes-school.github.io/gordienkodev-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
     <img src="./assets/shelter.png" width="200" height="300" style="object-fit: cover;">
   </a>
 
@@ -95,11 +95,11 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 <div style="display: flex;">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guz86&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkodev&show_icons=true&theme=dark)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=gordienkodev&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz86&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordienkodev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
@@ -113,7 +113,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 <div style="display: flex;">
  <img src="./RScertificate.jpg" width="300" height="200"> 
 </div>
-**guz86/guz86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gordienkodev/gordienkodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
