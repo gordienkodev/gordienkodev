@@ -2,6 +2,8 @@
 
 Frontend developer with over 5 years of experience in developing a wide range of applications, from e-commerce websites to complex information systems. I have participated in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a> and led <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development channel</a>. I am looking for a company where my skills will be valuable, and I would be happy to discuss potential opportunities!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Frontend+developer;I also mentor developers and conduct interviews;Additionally, I have a YouTube channel where I share my experience)](https://git.io/typing-svg)
+
  <p align="center" dir="auto">
    <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
        <img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
