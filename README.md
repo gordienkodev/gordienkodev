@@ -96,12 +96,14 @@ Frontend developer with over 5 years of experience in developing a wide range of
 ### My Stats
 
 <div style="display: flex;">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gordienkodev&theme=dark) 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordienkodev&show_icons=true&theme=dark)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=gordienkodev&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordienkodev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gordienkodev&theme=dark)
 
 
 </div>
