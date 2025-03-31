@@ -58,15 +58,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 ## My latest projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
-  <a href="https://github.com/gordienkodev/skilla-task" target="_blank">
-    <img src="./assets/skill.png" width="200" height="300" style="object-fit: cover;">
-  </a>
-  <a href="https://github.com/gordienkodev/graphiql-app" target="_blank">
-    <img src="./assets/graph.png" width="200" height="300" style="object-fit: cover;">
-  </a>
-  <a href="https://github.com/RS-Tech-Artisans/eCommerce-React" target="_blank">
-    <img src="./assets/puzzle.png" width="200" height="300" style="object-fit: cover;">
-  </a>
+ 
   <a href="https://zemed.ru/" target="_blank">
     <img src="./assets/zemed.png" width="200" height="300" style="object-fit: cover;">
   </a>
