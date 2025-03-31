@@ -18,6 +18,8 @@ Frontend developer with over 5 years of experience in developing a wide range of
 - 🚀 I’m currently working at 5D Hub.
 
 🔭 Completed Test Tasks:
+
+- <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo-task</a>
 - <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a>
 - <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a>
 - <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a>
