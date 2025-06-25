@@ -19,18 +19,19 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 🔭 Completed Test Tasks:
 
-- <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge-Task</a>
-- <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo-task</a>
-- <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a>
-- <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a>
-- <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a>
-- <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids task</a> 
-- <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a>
-- <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox task</a>
-- <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft task</a>
-- <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt task</a>
-- <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla task</a>
-- <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa task</a>
+-13. <a href="https://github.com/gordienkodev/steam-test" rel="nofollow">steam-Task</a>
+-12. <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge-Task</a>
+-11. <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo-task</a>
+-10. <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a>
+-9. <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a>
+-8. <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a>
+-7. <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids task</a> 
+-6. <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a>
+-5. <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox task</a>
+-4. <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft task</a>
+-3. <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt task</a>
+-2. <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla task</a>
+-1. <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa task</a>
 
 
 ## Languages and Tools
