@@ -19,19 +19,20 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 🔭 Completed Test Tasks (from newest to oldest):
 
-- <a href="https://github.com/gordienkodev/steam-test" rel="nofollow">steam-Task</a>
-- <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge-Task</a>
-- <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo-task</a>
-- <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a>
-- <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a>
-- <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a>
-- <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids task</a> 
-- <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a>
-- <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox task</a>
-- <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft task</a>
-- <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt task</a>
-- <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla task</a>
-- <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa task</a>
+- <a href="https://github.com/gordienkodev/testBeeJee" rel="nofollow">BeeJee-Task</a> (Fullstack - React, Express)
+- <a href="https://github.com/gordienkodev/steam-test" rel="nofollow">steam-Task</a> (Next.js)
+- <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge-Task</a> (Next.js)
+- <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo-task</a> (Next.js)
+- <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8-task</a> (React)
+- <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api task</a> (React)
+- <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI task</a> (Next.js)
+- <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids task</a> (React)
+- <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a> (React)
+- <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox task</a> (React)
+- <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft task</a> (React)
+- <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt task</a> (React)
+- <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla task</a> (React)
+- <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa task</a> (React)
 
 
 ## Languages and Tools
