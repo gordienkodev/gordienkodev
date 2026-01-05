@@ -15,7 +15,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
    📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a>
 </p>
 
-- 🚀 I’m currently working at 5D Hub(AVB-Invest).
+- 🚀 I’m currently working at EdTech Holding.
 
 🔭 Completed (from newest to oldest):
 
