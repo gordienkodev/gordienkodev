@@ -8,10 +8,16 @@ Frontend developer with over 5 years of experience in developing a wide range of
    <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
        LinkedIn Profile
    </a>
-   <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
+
+  </p>
+ <p align="center" dir="auto">
+    <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
        Telegram Profile
    </a>
-</p><p align="center" dir="auto">
+  </p>
+  
+
+<p align="center" dir="auto">
    📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a>
 </p>
 
