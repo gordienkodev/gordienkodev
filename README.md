@@ -4,21 +4,14 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" /></a>
 
- <p align="center" dir="auto">
-   <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
-       LinkedIn Profile
-   </a>
 
-  </p>
- <p align="center" dir="auto">
-    <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
-       Telegram Profile
-   </a>
-  </p>
-  
 
 <p align="center" dir="auto">
-   📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a>
+   📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a>  <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
+       LinkedIn Profile
+   </a>  <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
+       Telegram Profile
+   </a>
 </p>
 
 - 🚀 I’m currently working at EdTech Holding.
