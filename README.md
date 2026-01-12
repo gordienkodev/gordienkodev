@@ -7,10 +7,10 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 
 <p align="center" dir="auto">
-   📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a>  <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
-       LinkedIn Profile
-   </a>  <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
-       Telegram Profile
+   📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a> - <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
+       LinkedIn
+   </a> - <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
+       Telegram
    </a>
 </p>
 
