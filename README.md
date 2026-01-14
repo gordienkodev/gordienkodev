@@ -14,8 +14,6 @@ Frontend developer with over 5 years of experience in developing a wide range of
    </a>
 </p>
 
-- 🚀 I’m currently working at EdTech Holding.
-
 🔭 Completed (from newest to oldest):
 
 - <a href="https://github.com/gordienkodev/testBeeJee" rel="nofollow">BeeJee</a> (Fullstack - React, Express)
