@@ -4,16 +4,6 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" />
 
-
-
-<p align="center" dir="auto">
-   📫 How to reach me: <a href="mailto:gordienkodev@gmail.com">gordienkodev@gmail.com</a> - <a href="https://www.linkedin.com/in/pavelgordienko/" rel="nofollow">
-       LinkedIn
-   </a> - <a href="https://t.me/joinchat/@gordienkodev" rel="nofollow">
-       Telegram
-   </a>
-</p>
-
 🔭 Completed (from newest to oldest):
 
 - <a href="https://github.com/gordienkodev/testBeeJee" rel="nofollow">BeeJee</a> (Fullstack - React, Express)
