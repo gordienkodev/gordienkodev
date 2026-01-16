@@ -62,12 +62,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
     <img src="./assets/shelter.png" width="200" height="300" style="object-fit: cover;">
   </a>
 
-<a href="https://www.youtube.com/watch?v=-Wp8ylB9sWY" target="_blank">
-  <img src="https://img.youtube.com/vi/-Wp8ylB9sWY/0.jpg" alt="Video Title" width="400" height="300"/>
-</a>
-<a href="https://www.youtube.com/watch?v=CQoPOwxrNgA" target="_blank">
-  <img src="https://img.youtube.com/vi/CQoPOwxrNgA/0.jpg" alt="Video Title" width="400" height="300"/>
-</a>
+
 
 </div>
   
