@@ -6,6 +6,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 🔭 Completed (from newest to oldest):
 
+- <a href="https://github.com/gordienkodev/HEADLINER" rel="nofollow">HEADLINER</a> (React)
 - <a href="https://github.com/gordienkodev/testBeeJee" rel="nofollow">BeeJee</a> (Fullstack - React, Express)
 - <a href="https://github.com/gordienkodev/steam-test" rel="nofollow">steam</a> (Next.js)
 - <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge</a> (Next.js)
