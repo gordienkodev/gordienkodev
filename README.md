@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Frontend developer with over 5 years of experience in developing a wide range of applications, from e-commerce websites to complex information systems. I have participated in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a> and led <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development channel</a>. In my free time, I’m working on a couple of projects: <a href='https://journal-seven-sand.vercel.app/' target='_blank'>a habit tracking service</a> and a service for frontend developers. I am looking for a company where my skills will be valuable, and I would be happy to discuss potential opportunities!
+Frontend developer with over 5 years of experience in developing a wide range of applications, from e-commerce websites to complex information systems. I have participated in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a> and led <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development channel</a>. In my free time, I’m working on a couple of projects: <a href='https://journal-seven-sand.vercel.app/' target='_blank'>a habit tracking service</a> and a <a href='https://frontendbaza.vercel.app/' target='_blank'>service for frontend developers</a>. I am looking for a company where my skills will be valuable, and I would be happy to discuss potential opportunities!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" />
 
@@ -50,9 +50,14 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
  
-  <a href="https://journal-seven-sand.vercel.app/" target="_blank">
+  - <a href="https://journal-seven-sand.vercel.app/" target="_blank">
     Habbits Tracker
   </a>
+  
+  - <a href='https://frontendbaza.vercel.app/' target='_blank'>FrontendBaza</a>
+
+  - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a>
+  
 </div>
   
 ### CodeWars
