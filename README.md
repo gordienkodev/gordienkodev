@@ -51,7 +51,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
  
   - <a href="https://journal-seven-sand.vercel.app/" target="_blank">
-    Habbits Tracker
+    Habit Tracker
   </a>
   
   - <a href='https://frontendbaza.vercel.app/' target='_blank'>FrontendBaza</a>
