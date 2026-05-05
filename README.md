@@ -57,7 +57,9 @@ Frontend developer with over 5 years of experience in developing a wide range of
   - <a href='https://frontendbaza.vercel.app/' target='_blank'>FrontendBaza</a>
 
   - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a>
-  
+
+  - <a href='https://for-the-client.vercel.app/' target='_blank'>for-the-client</a>
+ 
 </div>
   
 ### CodeWars
