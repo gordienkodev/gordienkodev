@@ -3,7 +3,11 @@
 
 ## Frontend Developer
 
-3+ years of commercial experience.
+  - 3+ years of commercial experience.
+
+  - React • Next.js • TypeScript • Redux Toolkit • Node.js
+
+  - Building SaaS, dashboards and AI-powered products.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" />
 
