@@ -40,13 +40,13 @@
  
   - <a href="https://journal-seven-sand.vercel.app/" target="_blank">
     Habit Tracker
-  </a>
+  </a> — SaaS application for habit tracking, goal setting and personal productivity management.
   
-  - <a href='https://frontendbaza.vercel.app/' target='_blank'>FrontendBaza</a>
+  - <a href='https://frontendbaza.vercel.app/' target='_blank'>FrontendBaza</a> — Educational platform with curated frontend resources, roadmaps and development tools.
 
-  - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a>
+  - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a> AI-powered platform for resume analysis, CV optimization and recruitment workflow management.
 
-  - <a href='https://nadiktovano.ru/' target='_blank'>Надиктовано</a>
+  - <a href='https://nadiktovano.ru/' target='_blank'>Надиктовано</a> — AI transcription service that converts speech into structured text and written content.
  
 </div>
   
