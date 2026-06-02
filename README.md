@@ -5,25 +5,6 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" />
 
-🔭 Completed (from newest to oldest):
-
-- <a href="https://github.com/gordienkodev/HEADLINER" rel="nofollow">HEADLINER</a> (React)
-- <a href="https://github.com/gordienkodev/testBeeJee" rel="nofollow">BeeJee</a> (Fullstack - React, Express)
-- <a href="https://github.com/gordienkodev/steam-test" rel="nofollow">steam</a> (Next.js)
-- <a href="https://github.com/gordienkodev/OpenBridgeTask" rel="nofollow">openBridge</a> (Next.js)
-- <a href="https://github.com/gordienkodev/testwork07" rel="nofollow">abelo</a> (Next.js)
-- <a href="https://github.com/gordienkodev/fuse8-task" rel="nofollow">fuse8</a> (React)
-- <a href="https://github.com/gordienkodev/green-api-task" rel="nofollow">green-api</a> (React)
-- <a href="https://github.com/gordienkodev/PokeAPI-task" rel="nofollow">pokeAPI</a> (Next.js)
-- <a href="https://github.com/gordienkodev/yukids-task" rel="nofollow">yukids</a> (React)
-- <a href="https://github.com/gordienkodev/WEATHER-API" rel="nofollow">weather-API</a> (React)
-- <a href="https://github.com/gordienkodev/mindbox-task" rel="nofollow">mindbox</a> (React)
-- <a href="https://github.com/gordienkodev/mad-soft-task" rel="nofollow">mad-soft</a> (React)
-- <a href="https://github.com/gordienkodev/seotlt-task" rel="nofollow">seotlt</a> (React)
-- <a href="https://github.com/gordienkodev/skilla-task" rel="nofollow">skilla</a> (React)
-- <a href="https://github.com/gordienkodev/alfa-task" rel="nofollow">alfa</a> (React)
-
-
 ## Languages and Tools
 
 <div style="display: flex; gap: 5px; flex-wrap: wrap;">
