@@ -1,7 +1,9 @@
 # Hi there 👋
 ![Profile views](https://komarev.com/ghpvc/?username=gordienkodev&color=blue)
 
-Frontend developer with over 3 years of experience in developing a wide range of applications, from e-commerce websites to complex information systems. I have participated in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a> and led <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development channel</a>. In my free time, I’m working on a couple of projects: <a href='https://journal-seven-sand.vercel.app/' target='_blank'>a habit tracking service</a> and a <a href='https://frontendbaza.vercel.app/' target='_blank'>service for frontend developers</a>. I am looking for a company where my skills will be valuable, and I would be happy to discuss potential opportunities!
+## Frontend Developer
+
+3+ years of commercial experience.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=I+am+a+Frontend+developer;" alt="Typing SVG" />
 
@@ -28,7 +30,7 @@ Frontend developer with over 3 years of experience in developing a wide range of
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
-## My latest projects
+## Featured projects:
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
  
@@ -41,8 +43,6 @@ Frontend developer with over 3 years of experience in developing a wide range of
   - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a>
 
   - <a href='https://nadiktovano.ru/' target='_blank'>Надиктовано</a>
-
-  - <a href='https://for-the-client.vercel.app/' target='_blank'>for-the-client</a>
  
 </div>
   
