@@ -46,7 +46,7 @@
   - <a href='https://quickhireai.ru/' target='_blank'>QuickHireAI</a> — AI-powered platform for resume analysis, CV optimization and recruitment workflow management.
 
   - <a href='https://nadiktovano.ru/' target='_blank'>Надиктовано</a> — AI transcription service that converts speech into structured text and written content.
-  - 
+    
   - <a href='https://play.google.com/store/apps/details?id=com.gordienkodev.aipromptlibrary' target='_blank'>PromptEase</a> — AI Prompt Library is a fast and simple app for storing, organizing and reusing your favorite AI prompts.
 
 
